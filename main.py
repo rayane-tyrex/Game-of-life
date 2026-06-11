@@ -96,7 +96,7 @@ def main_pg(taille, motif_choisi ):
             
             
             
-            plt.pause(0.5)
+            plt.pause(0.0005)
     
 
 main_pg(taille=int(input("Entrez la taille: ")), motif_choisi= input("choix du motif: "))
